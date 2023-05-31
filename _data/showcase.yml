@@ -101,6 +101,10 @@
       author: ruiruiruiruirain
       code: https://github.com/ruiruiruiruirain/myweather
       description: 基于和风天气api和vue.js  Based on QWeather API and vue.js
+    - name: 天气房贷查询
+      author: fanqq
+      code: https://github.com/fxxqq/weather-and-house-loan
+      description: 一款好用方便的线上天气预报服务小程序
 - language: Kotlin
   works:
     - name: 夏风天气
